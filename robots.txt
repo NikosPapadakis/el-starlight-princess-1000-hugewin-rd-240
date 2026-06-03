@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://el-starlight-princess-1000-hugewin-240.onrender.com/sitemap.xml
